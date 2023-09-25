@@ -1,9 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Next.js Projects. Server side rendering imporve the SEO of the page. 
+Framworks:  Next.js, TypeSciprt, TailWind CSS, HeadlessUI
+API: TripAdvisor APi(https://rapidapi.com/DataCrawler/api/tripadvisor16). Due to stability of the free version API,  I store and use the data in the project constant folder. 
+Intros: This application helps users to find the top restaurants with provided city. 
 
-## Getting Started
-
+Page layout 
+Hero page:
 ![image](https://github.com/tonywang1993upenn/restaurant_finder/assets/132950344/4d92673e-5d40-4496-a9a4-1245f05644b9)
 
+Restaurant Cards:
+![image](https://github.com/tonywang1993upenn/restaurant_finder/assets/132950344/0068bae9-aeb2-4fc9-bba6-be750371bcb3)
+
+Restaurant Details:
+![image](https://github.com/tonywang1993upenn/restaurant_finder/assets/132950344/90dd72a9-f203-4655-a3ab-558cc40b26dd)
+
+
+## Getting Started
 First, run the development server:
 
 ```bash
