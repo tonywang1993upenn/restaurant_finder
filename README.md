@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+![image](https://github.com/tonywang1993upenn/restaurant_finder/assets/132950344/4d92673e-5d40-4496-a9a4-1245f05644b9)
 
 First, run the development server:
 
